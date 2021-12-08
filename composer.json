@@ -15,13 +15,13 @@
     "authors": [
         {
             "name": "Amirhossein Baghaie",
-            "email": "amirbagh75@gmail.com",
-            "homepage": "https://amirbagh75.ir",
+            "email": "ohmydevops@gmail.com",
+            "homepage": "https://ohmydevops.ir",
             "role": "Developer"
         }
     ],
     "require": {
-        "php": "~7.3",
+        "php": "~7.3|~8.0",
         "ext-json": "*",
         "guzzlehttp/guzzle": "^7.0.1",
         "illuminate/support": "^6.0|^7.0|^8.0"
